@@ -1,2 +1,3 @@
-# coding-tech
-For programming and web development
+# hello world
+
+For programming and web development. I like coding and designing.
