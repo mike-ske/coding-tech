@@ -1,7 +1,7 @@
 <?PHP 
 
 $_full_name = "Alumona Micah";
-$_id = "HNC-04840";
+$_id = "HNG-04840";
 $_lang = "php";
 
 echo "Hello world, this is ".$_full_name." with 
