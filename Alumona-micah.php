@@ -1,4 +1,4 @@
-<?PHP 
+<?php 
 
 $_full_name = "Alumona Micah";
 $_id = "HNG-04840";
